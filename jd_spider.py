@@ -1,3 +1,5 @@
+# -*- coding:utf-8 -*-
+#！python3
 import requests
 url = "https://item.jd.com/100000287145.html"
 try:
